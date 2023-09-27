@@ -1,4 +1,4 @@
-P34 - Programmation orientée objet
+<h3>P34 - Programmation orientée objet </h3>
 
 Pour ce projet, le but était de créer une application qui simulerait un jeu de poker 5 cartes classiques (style casino, ou le joueur est contre l'ordinateur) <br>
 Réalisé dans une application Windows Forms (.NET Core) en visual basic
